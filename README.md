@@ -1,12 +1,13 @@
 #R-360-3D-Printer
 
-First open source polar RepRap 3d printer
+First open source polar RepRap 3d printer.  
+
+This project is being revived after 5 years without changes.  Plans involve optimizing and replacing poor quality cad files with new SolidWorks and 3MF models that retain original functionality but have improved fitment, durability, and printability.  Any additional information about the orginal unit would be helpful!
 
 ##Documentation
 
 You can find more information and tutorials on the following links:
 [Reprap Wiki](http://reprap.org/wiki/R_360)
-[replicatorwarehouse.com](http://replicatorwarehouse.com/r-360-modular-printer-with-rotating-bed/)
 
 ##BOM
 
@@ -175,8 +176,3 @@ Greg's Wade Extruder is licensed under the Creative Commons - GNU GPL license.
 2010 by GregFrost
 Extruder based on Prusa git repo.
 http://www.thingiverse.com/thing:6713
-
-####R-360 Logo
-
-The R-360 logo is not included! Can I have your cool logo on my printer? :) 
-R-360 Logo contains our company logo which is trade marked so please do not use unauthorised. However the logo is not required for the functionality of the printer, but it makes it look much cooler! ;) If you like to have the full experience and you would like to have our official logo on your printer :) and you would like to support us to continue to develop the R-360 printer, then please donate 5 USD to us and we will allow you to print and use our logo on your printer. :) Drop us an email to admin@replicatorwarehouse.com
