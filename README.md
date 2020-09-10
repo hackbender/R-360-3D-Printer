@@ -159,9 +159,9 @@ ActiveX or ActiveX Dual extruder
 
 Kornel Farkas 
 
-Email: admin@replicatorwarehouse.com 
+HackBender
 
-Website: Replicatorwarehouse.com
+ES-Alexander
 
 ##Licences
 
